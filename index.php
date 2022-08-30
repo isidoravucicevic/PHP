@@ -96,7 +96,7 @@
 						<li>
 							<div class="flex-caption">
 								<h1>Zdravo, dobro došli u Oleninu oazu mira!</h1>
-								<p><a class="button stroke smoothscroll" href="#onama">Više o nama</a></p>
+								<p><a class="button stroke smoothscroll" href="#omeni">Više o meni</a></p>
 							</div>
 						</li>
 
@@ -646,7 +646,7 @@
 				</div>
 
 				<div id="go-top">
-					<a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+					<a class="smoothscroll" title="Back to Top" href="#pocetna"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
 				</div>
 
 			</div> <!-- /row -->
